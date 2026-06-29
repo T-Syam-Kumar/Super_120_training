@@ -1,0 +1,53 @@
+22-06-2026
+==========
+1. Time Complexity
+2. Bit Manipulation 
+3. 202. Happy number
+
+
+23-06-2026
+==========
+1. Bit Manipulation IMP
+2. Hashing Concept 
+3. 1.Two Sum
+4. 217. Contains Duplicate
+5. 238. Product of Array Except Self -----
+6. 242. Valid Anagram
+
+
+24-06-2026
+==========
+1. 49. Group Anagrams
+2. 128. Longest Consecutive Sequence
+3. 560. Subarray Sum Equals K --------
+4. 167. Two Sum II - Input Array Is Sorted
+5. 15. 3Sum -----
+6. 2 pointer concept
+
+
+25-06-2026
+==========
+1. 11. Container with most water
+2. 42. Trapping Rain Water
+
+
+27-06-2026
+==========
+1. Sliding Window
+2. 1004.Max Consecutive Ones III
+3. 3.Longest Substring Without Repeating Characters.py
+4. 904. Fruit Into Baskets.py
+5. 76. Minimum Window Substring.py
+6. 424. Longest Repeating Character Replacement.py
+7. 1432. Max Difference You Can Get From Changing an Integer.py
+
+
+29-06-2026
+==========
+1. Allocate Minimum pages
+2. 33. Search in rotated sorted Array
+3. 34. First and last position of element in an array
+4. 35. Search Insert position
+5. 162. Find peak element
+6. 875. Koko eating bananas
+7. 1011. Capacity to ship packages within D days

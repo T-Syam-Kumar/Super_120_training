@@ -1,0 +1,13 @@
+def searchInsert(self, nums, target):
+        first = 0
+        last = len(nums)-1
+        mid = 0
+        while(first<=last):
+            mid = first + (last-first)/2
+            if(nums[mid]==target):
+                return mid
+            elif(nums[mid]<target):
+                first = last +1
+            else:
+                end = mid - 1
+        return first
