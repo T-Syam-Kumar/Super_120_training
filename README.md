@@ -1,4 +1,4 @@
-# 🚀 Data Structures & Algorithms
+#  Data Structures & Algorithms
 
 > A curated collection of my **Data Structures & Algorithms** practice, solutions, and notes while preparing for Software Engineering interviews. This repository is organized topic-wise and contains optimized solutions to popular interview problems from LeetCode and GeeksforGeeks.
 
@@ -9,38 +9,21 @@
 
 ---
 
-## 📌 About
+##  About
 
 This repository documents my journey of learning and mastering Data Structures & Algorithms.
 
 The primary objectives are:
 
-- 📚 Strengthen problem-solving skills
-- 💻 Prepare for coding interviews
-- 🚀 Build consistency through daily practice
-- 🎯 Learn multiple approaches and optimizations
-- 🧠 Understand algorithmic thinking instead of memorizing solutions
+-  Strengthen problem-solving skills
+-  Prepare for coding interviews
+-  Build consistency through daily practice
+-  Learn multiple approaches and optimizations
+-  Understand algorithmic thinking instead of memorizing solutions
 
 ---
 
-# 📂 Repository Structure
 
-```
-DSA/
-│
-├── Arrays
-├── Hashing
-├── Bit Manipulation
-├── Two Pointers
-├── Sliding Window
-├── Binary Search
-├── Greedy
-├── Recursion
-├── Backtracking
-├── Graphs
-├── Dynamic Programming
-└── README.md
-```
 
 ---
 
@@ -68,6 +51,7 @@ DSA/
 ## 22 June 2026
 
 - Time Complexity
+- Space Complexity
 - Bit Manipulation
 - [202. Happy Number](https://leetcode.com/problems/happy-number/)
 
@@ -209,7 +193,7 @@ DSA/
 
 ---
 
-# 📊 Progress
+#  Progress
 
 | Metric | Count |
 |---------|------:|
@@ -220,7 +204,7 @@ DSA/
 
 ---
 
-# 📖 Resources
+#  Resources
 
 - **LeetCode:** https://leetcode.com/problemset/
 - **NeetCode Roadmap:** https://neetcode.io/roadmap
@@ -229,29 +213,19 @@ DSA/
 
 ---
 
-# 🤝 Contributions
+#  Contributions
 
 This repository is intended for learning and interview preparation. Suggestions, optimizations, and improvements are always welcome.
 
 ---
 
-# ⭐ Support
+#  Support
 
 If you found this repository useful, consider giving it a **⭐ Star**. It helps motivate continued learning and sharing!
 
 ---
 
-## 👨‍💻 Happy Coding!
+##  Happy Coding!
 ```
 
 
-This style is similar to the README files used in popular DSA repositories (like NeetCode, Striver, and Kunal Kushwaha), with:
-- Professional badges
-- Clean sections
-- Clickable LeetCode links
-- Progress table
-- Organized timeline
-- Repository structure
-- Resources section
-- Recruiter-friendly appearance
-- Attractive formatting on GitHub.
