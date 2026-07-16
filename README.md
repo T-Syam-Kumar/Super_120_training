@@ -5,7 +5,7 @@
 ![Python](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python)
 ![LeetCode](https://img.shields.io/badge/Platform-LeetCode-orange?style=for-the-badge&logo=leetcode)
 ![DSA](https://img.shields.io/badge/Focus-Data%20Structures%20%26%20Algorithms-success?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-In%20Progress-brightgreen?style=for-the-badge)
+
 
 ---
 
