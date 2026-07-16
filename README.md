@@ -27,7 +27,7 @@ The primary objectives are:
 
 ---
 
-# 📚 Topics Covered
+# Topics Covered
 
 | Category | Status |
 |-----------|--------|
@@ -46,7 +46,7 @@ The primary objectives are:
 
 ---
 
-# 📅 Learning Timeline
+# Learning Timeline
 
 ## 22 June 2026
 
