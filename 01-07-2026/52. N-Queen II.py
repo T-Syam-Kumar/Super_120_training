@@ -23,7 +23,7 @@
             board[r][c] = "."
     backtrack(0)
     return len(res)"""
-
+# same as N queen 1
 def NQueen(n):
     res = 0
     pos = set()
