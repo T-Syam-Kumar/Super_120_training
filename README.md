@@ -224,6 +224,3 @@ This repository is intended for learning and interview preparation. Suggestions,
 If you found this repository useful, consider giving it a **⭐ Star**. It helps motivate continued learning and sharing!
 
 ---
-
-##  Happy Coding!
-```
