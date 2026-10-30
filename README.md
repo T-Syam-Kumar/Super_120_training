@@ -20,11 +20,6 @@ The primary objectives are:
 -  Build consistency through daily practice
 -  Learn multiple approaches and optimizations
 -  Understand algorithmic thinking instead of memorizing solutions
-
----
-
-
-
 ---
 
 # Topics Covered
